@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: 3cdec845dbe89dc4387cda65133ca5a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3415734801936197187
+    second: walk complete sprite sheet - transparrent_0
+  - first:
+      213: -672206141195516440
+    second: walk complete sprite sheet - transparrent_1
+  - first:
+      213: -283835569604041268
+    second: walk complete sprite sheet - transparrent_2
+  - first:
+      213: 1399907978390237008
+    second: walk complete sprite sheet - transparrent_3
+  - first:
+      213: 2888568701103050410
+    second: walk complete sprite sheet - transparrent_4
+  - first:
+      213: -8927429552658923012
+    second: walk complete sprite sheet - transparrent_5
+  - first:
+      213: 6083520400436510725
+    second: walk complete sprite sheet - transparrent_6
+  - first:
+      213: 1651573043963526565
+    second: walk complete sprite sheet - transparrent_7
+  - first:
+      213: 1757499727040815228
+    second: walk complete sprite sheet - transparrent_8
+  - first:
+      213: 6055992762824086429
+    second: walk complete sprite sheet - transparrent_9
+  - first:
+      213: -4079174668816101679
+    second: walk complete sprite sheet - transparrent_10
+  - first:
+      213: -6827424946201456597
+    second: walk complete sprite sheet - transparrent_11
+  - first:
+      213: -2638504793157073480
+    second: walk complete sprite sheet - transparrent_12
+  - first:
+      213: -997696629565306648
+    second: walk complete sprite sheet - transparrent_13
+  - first:
+      213: -7437195527679025427
+    second: walk complete sprite sheet - transparrent_14
+  - first:
+      213: -6312086599861311310
+    second: walk complete sprite sheet - transparrent_15
+  - first:
+      213: -9200028140135167335
+    second: walk complete sprite sheet - transparrent_16
+  - first:
+      213: -5518754357175174862
+    second: walk complete sprite sheet - transparrent_17
+  - first:
+      213: 6634308061428377718
+    second: walk complete sprite sheet - transparrent_18
+  - first:
+      213: -6797786170552941205
+    second: walk complete sprite sheet - transparrent_19
+  - first:
+      213: 5455425960989080538
+    second: walk complete sprite sheet - transparrent_20
+  - first:
+      213: 7755891009339566981
+    second: walk complete sprite sheet - transparrent_21
+  - first:
+      213: 3074721373252737115
+    second: walk complete sprite sheet - transparrent_22
+  - first:
+      213: 5894177608975518027
+    second: walk complete sprite sheet - transparrent_23
+  - first:
+      213: 7708254631038218937
+    second: walk complete sprite sheet - transparrent_24
+  - first:
+      213: 372923416190282948
+    second: walk complete sprite sheet - transparrent_25
+  - first:
+      213: 7482642931940599230
+    second: walk complete sprite sheet - transparrent_26
+  - first:
+      213: 7425215283514324879
+    second: walk complete sprite sheet - transparrent_27
+  - first:
+      213: 6755538494582929530
+    second: walk complete sprite sheet - transparrent_28
+  - first:
+      213: 3970686868623968598
+    second: walk complete sprite sheet - transparrent_29
+  - first:
+      213: -667656779612937340
+    second: walk complete sprite sheet - transparrent_30
+  - first:
+      213: 3112358039928138380
+    second: walk complete sprite sheet - transparrent_31
+  - first:
+      213: -5030452826786905724
+    second: walk complete sprite sheet - transparrent_32
+  - first:
+      213: 8491181474899967592
+    second: walk complete sprite sheet - transparrent_33
+  - first:
+      213: -5395366439009650592
+    second: walk complete sprite sheet - transparrent_34
+  - first:
+      213: 2580600725299218522
+    second: walk complete sprite sheet - transparrent_35
+  - first:
+      213: -981905099790821455
+    second: walk complete sprite sheet - transparrent_36
+  - first:
+      213: 3097739664835782490
+    second: walk complete sprite sheet - transparrent_37
+  - first:
+      213: -5535758270945771813
+    second: walk complete sprite sheet - transparrent_38
+  - first:
+      213: 5901774714403131583
+    second: walk complete sprite sheet - transparrent_39
+  - first:
+      213: 7352117744395113688
+    second: walk complete sprite sheet - transparrent_40
+  - first:
+      213: 2117417290387291658
+    second: walk complete sprite sheet - transparrent_41
+  - first:
+      213: 2750217280601334691
+    second: walk complete sprite sheet - transparrent_42
+  - first:
+      213: 492956567598591232
+    second: walk complete sprite sheet - transparrent_43
+  - first:
+      213: 4821138457119330073
+    second: walk complete sprite sheet - transparrent_44
+  - first:
+      213: 5879097376399343685
+    second: walk complete sprite sheet - transparrent_45
+  - first:
+      213: -2944085172646756920
+    second: walk complete sprite sheet - transparrent_46
+  - first:
+      213: -5423391992020425016
+    second: walk complete sprite sheet - transparrent_47
+  - first:
+      213: 4104801412855106668
+    second: walk complete sprite sheet - transparrent_48
+  - first:
+      213: 4019391387188450998
+    second: walk complete sprite sheet - transparrent_49
+  - first:
+      213: 301104200493736464
+    second: walk complete sprite sheet - transparrent_50
+  - first:
+      213: -5357862724817220412
+    second: walk complete sprite sheet - transparrent_51
+  - first:
+      213: 8060970933000485824
+    second: walk complete sprite sheet - transparrent_52
+  - first:
+      213: -8740929301525681397
+    second: walk complete sprite sheet - transparrent_53
+  - first:
+      213: -2060064770145405785
+    second: walk complete sprite sheet - transparrent_54
+  - first:
+      213: -7074018684485447299
+    second: walk complete sprite sheet - transparrent_55
+  - first:
+      213: 3254133639427719386
+    second: walk complete sprite sheet - transparrent_56
+  - first:
+      213: 1269211610426375309
+    second: walk complete sprite sheet - transparrent_57
+  - first:
+      213: 5737406103081552556
+    second: walk complete sprite sheet - transparrent_58
+  - first:
+      213: -345952517272586503
+    second: walk complete sprite sheet - transparrent_59
+  - first:
+      213: 2697327925968285475
+    second: walk complete sprite sheet - transparrent_60
+  - first:
+      213: 7156954383479169030
+    second: walk complete sprite sheet - transparrent_61
+  - first:
+      213: -8191491280895325652
+    second: walk complete sprite sheet - transparrent_62
+  - first:
+      213: 940829852232366820
+    second: walk complete sprite sheet - transparrent_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db957a38b4fd890d0800000000000000
+      internalID: -3415734801936197187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5843a7318dba6f0800000000000000
+      internalID: -672206141195516440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc56123ad0d9f0cf0800000000000000
+      internalID: -283835569604041268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6f2aa3e87d6310800000000000000
+      internalID: 1399907978390237008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae0f8aede1461820800000000000000
+      internalID: 2888568701103050410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1c0741f166b1480800000000000000
+      internalID: -8927429552658923012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5004cd382910d6450800000000000000
+      internalID: 6083520400436510725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7e0edee09be610800000000000000
+      internalID: 1651573043963526565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702d1ba0b4e36810800000000000000
+      internalID: 1757499727040815228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93577ee4553b0450800000000000000
+      internalID: 6055992762824086429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dec178404cd367c0800000000000000
+      internalID: -4079174668816101679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2095074f2d1041a0800000000000000
+      internalID: -6827424946201456597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b505b9bed5226bd0800000000000000
+      internalID: -2638504793157073480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8c72193387722f0800000000000000
+      internalID: -997696629565306648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee519f4216c9c890800000000000000
+      internalID: -7437195527679025427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b863c72ea6f668a0800000000000000
+      internalID: -6312086599861311310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a45af762fe25080800000000000000
+      internalID: -9200028140135167335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2393fe9d6227963b0800000000000000
+      internalID: -5518754357175174862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e2f3280cc11c50800000000000000
+      internalID: 6634308061428377718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65012d7e7969a1a0800000000000000
+      internalID: -6797786170552941205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb237e10195bb40800000000000000
+      internalID: 5455425960989080538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ba450d7c572ab60800000000000000
+      internalID: 7755891009339566981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58d7046cca9baa20800000000000000
+      internalID: 3074721373252737115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b490c028e435cc150800000000000000
+      internalID: 5894177608975518027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2fa413fb839fa60800000000000000
+      internalID: 7708254631038218937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc62760fd3ec2500800000000000000
+      internalID: 372923416190282948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb528631a10b7d760800000000000000
+      internalID: 7482642931940599230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f873caab5f9ab0760800000000000000
+      internalID: 7425215283514324879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b71ce77e70cd50800000000000000
+      internalID: 6755538494582929530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659c3ae5ba6ba1730800000000000000
+      internalID: 3970686868623968598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4832a4342b10cb6f0800000000000000
+      internalID: -667656779612937340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a6fb7b521513b20800000000000000
+      internalID: 3112358039928138380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c1087ecd303ab0800000000000000
+      internalID: -5030452826786905724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e3ace209cb6d570800000000000000
+      internalID: 8491181474899967592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068f3c14fcecf15b0800000000000000
+      internalID: -5395366439009650592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a584392efa220d320800000000000000
+      internalID: 2580600725299218522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d2db93829f52f0800000000000000
+      internalID: -981905099790821455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57ac2900d16dfa20800000000000000
+      internalID: 3097739664835782490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdeb8d9ae290d23b0800000000000000
+      internalID: -5535758270945771813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0916475d057e150800000000000000
+      internalID: 5901774714403131583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d45485a228f70660800000000000000
+      internalID: 7352117744395113688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0efdca9ec3926d10800000000000000
+      internalID: 2117417290387291658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a32261ab0cba2620800000000000000
+      internalID: 2750217280601334691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00de86de26557d600800000000000000
+      internalID: 492956567598591232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f829d12ef18e240800000000000000
+      internalID: 4821138457119330073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540c6304aefb69150800000000000000
+      internalID: 5879097376399343685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd35e742228427d0800000000000000
+      internalID: -2944085172646756920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ace5b7bd3cb4b0800000000000000
+      internalID: -5423391992020425016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c00c6032f27f830800000000000000
+      internalID: 4104801412855106668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6d1a6cb2fb7c730800000000000000
+      internalID: 4019391387188450998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012aececcacbd2400800000000000000
+      internalID: 301104200493736464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc86fb2d3c05a5b0800000000000000
+      internalID: -5357862724817220412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3e3eca525edf60800000000000000
+      internalID: 8060970933000485824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b22c79c1bf1b680800000000000000
+      internalID: -8740929301525681397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4bf29910e2963e0800000000000000
+      internalID: -2060064770145405785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d4c87c7904dd90800000000000000
+      internalID: -7074018684485447299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00dbdcd41092d20800000000000000
+      internalID: 3254133639427719386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf3403c352d9110800000000000000
+      internalID: 1269211610426375309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa8552e37c5f9f40800000000000000
+      internalID: 5737406103081552556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6b0dab40ee23bf0800000000000000
+      internalID: -345952517272586503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fa4162575de6520800000000000000
+      internalID: 2697327925968285475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60063f4b71c925360800000000000000
+      internalID: 7156954383479169030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a4685941af15e80800000000000000
+      internalID: -8191491280895325652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk complete sprite sheet - transparrent_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eab46014cf7e0d00800000000000000
+      internalID: 940829852232366820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3fb1b207d2cc57d46be2a3a9aa512e89
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      walk complete sprite sheet - transparrent_0: -3415734801936197187
+      walk complete sprite sheet - transparrent_1: -672206141195516440
+      walk complete sprite sheet - transparrent_10: -4079174668816101679
+      walk complete sprite sheet - transparrent_11: -6827424946201456597
+      walk complete sprite sheet - transparrent_12: -2638504793157073480
+      walk complete sprite sheet - transparrent_13: -997696629565306648
+      walk complete sprite sheet - transparrent_14: -7437195527679025427
+      walk complete sprite sheet - transparrent_15: -6312086599861311310
+      walk complete sprite sheet - transparrent_16: -9200028140135167335
+      walk complete sprite sheet - transparrent_17: -5518754357175174862
+      walk complete sprite sheet - transparrent_18: 6634308061428377718
+      walk complete sprite sheet - transparrent_19: -6797786170552941205
+      walk complete sprite sheet - transparrent_2: -283835569604041268
+      walk complete sprite sheet - transparrent_20: 5455425960989080538
+      walk complete sprite sheet - transparrent_21: 7755891009339566981
+      walk complete sprite sheet - transparrent_22: 3074721373252737115
+      walk complete sprite sheet - transparrent_23: 5894177608975518027
+      walk complete sprite sheet - transparrent_24: 7708254631038218937
+      walk complete sprite sheet - transparrent_25: 372923416190282948
+      walk complete sprite sheet - transparrent_26: 7482642931940599230
+      walk complete sprite sheet - transparrent_27: 7425215283514324879
+      walk complete sprite sheet - transparrent_28: 6755538494582929530
+      walk complete sprite sheet - transparrent_29: 3970686868623968598
+      walk complete sprite sheet - transparrent_3: 1399907978390237008
+      walk complete sprite sheet - transparrent_30: -667656779612937340
+      walk complete sprite sheet - transparrent_31: 3112358039928138380
+      walk complete sprite sheet - transparrent_32: -5030452826786905724
+      walk complete sprite sheet - transparrent_33: 8491181474899967592
+      walk complete sprite sheet - transparrent_34: -5395366439009650592
+      walk complete sprite sheet - transparrent_35: 2580600725299218522
+      walk complete sprite sheet - transparrent_36: -981905099790821455
+      walk complete sprite sheet - transparrent_37: 3097739664835782490
+      walk complete sprite sheet - transparrent_38: -5535758270945771813
+      walk complete sprite sheet - transparrent_39: 5901774714403131583
+      walk complete sprite sheet - transparrent_4: 2888568701103050410
+      walk complete sprite sheet - transparrent_40: 7352117744395113688
+      walk complete sprite sheet - transparrent_41: 2117417290387291658
+      walk complete sprite sheet - transparrent_42: 2750217280601334691
+      walk complete sprite sheet - transparrent_43: 492956567598591232
+      walk complete sprite sheet - transparrent_44: 4821138457119330073
+      walk complete sprite sheet - transparrent_45: 5879097376399343685
+      walk complete sprite sheet - transparrent_46: -2944085172646756920
+      walk complete sprite sheet - transparrent_47: -5423391992020425016
+      walk complete sprite sheet - transparrent_48: 4104801412855106668
+      walk complete sprite sheet - transparrent_49: 4019391387188450998
+      walk complete sprite sheet - transparrent_5: -8927429552658923012
+      walk complete sprite sheet - transparrent_50: 301104200493736464
+      walk complete sprite sheet - transparrent_51: -5357862724817220412
+      walk complete sprite sheet - transparrent_52: 8060970933000485824
+      walk complete sprite sheet - transparrent_53: -8740929301525681397
+      walk complete sprite sheet - transparrent_54: -2060064770145405785
+      walk complete sprite sheet - transparrent_55: -7074018684485447299
+      walk complete sprite sheet - transparrent_56: 3254133639427719386
+      walk complete sprite sheet - transparrent_57: 1269211610426375309
+      walk complete sprite sheet - transparrent_58: 5737406103081552556
+      walk complete sprite sheet - transparrent_59: -345952517272586503
+      walk complete sprite sheet - transparrent_6: 6083520400436510725
+      walk complete sprite sheet - transparrent_60: 2697327925968285475
+      walk complete sprite sheet - transparrent_61: 7156954383479169030
+      walk complete sprite sheet - transparrent_62: -8191491280895325652
+      walk complete sprite sheet - transparrent_63: 940829852232366820
+      walk complete sprite sheet - transparrent_7: 1651573043963526565
+      walk complete sprite sheet - transparrent_8: 1757499727040815228
+      walk complete sprite sheet - transparrent_9: 6055992762824086429
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
